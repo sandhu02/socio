@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087967359802",
+    "project_id": "fir-pushnotifications-176af",
+    "storage_bucket": "fir-pushnotifications-176af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087967359802:android:d99467f092b5ad99aa5603",
+        "android_client_info": {
+          "package_name": "com.example.cusotmauthtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdh_vj3NY46H6NKKl3N1Ao2Lj7aOagI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087967359802:android:9b4ff16f74234c86aa5603",
+        "android_client_info": {
+          "package_name": "om.example.firebasepushnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdh_vj3NY46H6NKKl3N1Ao2Lj7aOagI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
